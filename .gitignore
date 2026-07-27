@@ -7,3 +7,9 @@ node_modules/
 *.tsbuildinfo
 __pycache__/
 *.pyc
+ios/
+node_modules/
+.next/
+.venv/
+.DS_Store
+*.tsbuildinfo
